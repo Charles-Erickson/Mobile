@@ -4,6 +4,11 @@
              x:Class="Mobile.DeckView">
     <ContentPage.Content>
         <ListView ItemsSource="{Binding Deck}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
 
         </ListView>
     </ContentPage.Content>

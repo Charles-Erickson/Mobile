@@ -8,7 +8,7 @@ namespace Mobile
     class DeckViewModel : BaseFodyObservable
     {
         public string Title => "Pokemon";
-        public ObservableCollection<Card> Deck { get; set; } = new ObservableCollection<Card>
+        public new ObservableCollection<Card> Deck { get; set; } = new ObservableCollection<Card>
         {
             new Card { Id = 0, PokedexNum=1, Name = "Bulbasaur", Element="Grass", Evolution=true},
             new Card { Id = 1, PokedexNum=23, Name = "Bulbasaur", Element="Grass", Evolution=true},

@@ -2,7 +2,6 @@ C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\bi
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\bin\Debug\netstandard2.0\Mobile.dll
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\bin\Debug\netstandard2.0\ref\Mobile.dll
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\bin\Debug\netstandard2.0\Mobile.pdb
-C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\Mobile.csprojAssemblyReference.cache
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\DeckView.xaml.g.cs
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
