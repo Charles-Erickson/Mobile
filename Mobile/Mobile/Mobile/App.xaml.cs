@@ -10,7 +10,7 @@ namespace Mobile
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new DeckView());
         }
 
         protected override void OnStart()
