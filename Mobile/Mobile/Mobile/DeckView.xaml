@@ -3,7 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Mobile.DeckView">
     <ContentPage.Content>
-        <ListView ItemsSource="{Binding Deck}">
+        <ListView ItemsSource="{Binding Deck}"
+                    IsGroupingEnabled="True"
+                  GroupDisplayBinding="{Binding Key}">>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding Name}" />

@@ -23,7 +23,7 @@ namespace Mobile
         };
         private ILookup<string, Card> GetGroupedTodoList()
         {
-            return _deck.OrderBy(t => t.PokedexNum);
+            return _deck.OrderBy(t => t.PokedexNum).ThenByDescending(t=>t.Element);
         }
     }
 
