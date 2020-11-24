@@ -4,8 +4,9 @@
              x:Class="Mobile.DeckView">
     <ContentPage.Content>
         <ListView ItemsSource="{Binding Deck}"
-                    IsGroupingEnabled="True"
-                  GroupDisplayBinding="{Binding Key}">>
+                    <!--IsGroupingEnabled="True"
+                  GroupDisplayBinding="{Binding Key}">-->
+            >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding Name}" />
