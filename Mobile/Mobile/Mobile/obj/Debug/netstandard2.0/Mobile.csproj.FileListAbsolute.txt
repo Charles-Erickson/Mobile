@@ -13,3 +13,4 @@ C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\ob
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\Mobile.dll
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\ref\Mobile.dll
 C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\Mobile.pdb
+C:\Users\cse62\OneDrive\Desktop\Personal Projects\Mobile\Mobile\Mobile\Mobile\obj\Debug\netstandard2.0\Mobile.csprojAssemblyReference.cache
